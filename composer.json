@@ -1,7 +1,7 @@
 {
     "name": "tsumari/gooapi",
     "type": "library",
-    "version": "1.00",
+    "version": "1.01",
     "license": "MIT",
     "autoload": {
         "psr-4": {
